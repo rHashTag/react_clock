@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,SAAU,CACV,aAAc","file":"main.74582fda.chunk.css","sourcesContent":["// styles go here\n.App {\n  width: 25%;\n  margin: 0 auto;\n}\n"]}
